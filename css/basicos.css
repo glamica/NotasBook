@@ -1,0 +1,14 @@
+.center_box {
+    position: absolute;
+    top: 33.333vh;
+    left: 33.333vw;
+    width: 33.333vw;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+.center_box * {
+    display: flex;
+    justify-content: center;
+    margin: 3px;
+}
